@@ -7,6 +7,6 @@ Cada jogador recebe 5 cartas. Após isso, deve escolher uma das cartas para joga
 
 Valor de cada tipo de carta:
 
-Dragão Branco de Olhos Azuis: Papel;
-Mago Negro: Pedra;
-Exodia: Tesoura;
+* Dragão Branco de Olhos Azuis: Papel;
+* Mago Negro: Pedra;
+* Exodia: Tesoura;
